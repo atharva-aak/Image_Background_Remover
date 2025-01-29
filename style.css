@@ -165,7 +165,7 @@ body{
 #upload-btn:hover{
     color: rgb(29, 30, 31);
     font-size: 18px;
-    background:  linear-gradient(to left , rgb(20, 169, 186),rgb(28, 135, 189));
+    background:  linear-gradient(to left , rgb(20, 169, 186),rgb(227, 173, 24));
 }
 .result{
     width: 50%;
@@ -211,7 +211,7 @@ body{
  }
  #download{
     padding: 12px 20px;
-    background:  linear-gradient(to right , rgb(34, 149, 162),rgb(212, 89, 153));
+    background:  linear-gradient(to right , rgb(192, 228, 210),rgb(26, 211, 103),rgb(198, 206, 39),rgb(198, 190, 144));
     color: aliceblue;
     border: none;
     outline: none;
@@ -221,7 +221,7 @@ body{
  }
  #reset{
     padding: 12px 20px;
-    background:  linear-gradient(to right , rgb(34, 149, 162),rgb(212, 89, 153));
+    background:  linear-gradient(to right , rgb(192, 228, 210),rgb(26, 211, 103),rgb(198, 206, 39),rgb(198, 190, 144));
     color: aliceblue;
     border: none;
     outline: none;
